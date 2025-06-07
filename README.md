@@ -10,7 +10,7 @@ Hi, I’m Alex Massy, an engineering student passionate about blending technolog
 
 ## 📄 My Resume
 
-[![Resume Preview](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F67711&psig=AOvVaw1eWrs7Dols-A29W3vykr3V&ust=1749374680050000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj2jdL-3o0DFQAAAAAdAAAAABAE)](https://drive.google.com/uc?export=download&id=1Z8Ysa0J2vL1jQFw99EeyF7wbCXFTOZZy)
+[![Resume Preview](https://drive.google.com/file/d/1sSuA0iypuyZvvk9pBexyO98va9pGcjG1/view?usp=sharing)](https://drive.google.com/uc?export=download&id=1Z8Ysa0J2vL1jQFw99EeyF7wbCXFTOZZy)
 
 Click the image to download or view my full resume.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
