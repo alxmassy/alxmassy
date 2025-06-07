@@ -8,11 +8,11 @@ Hi, I’m Alex Massy, an engineering student passionate about blending technolog
 ![](https://nirzak-streak-stats.vercel.app/?user=alxmassy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alxmassy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📄 My Resume
+[## 📄 My Resume
 
 [![Resume Preview](https://drive.google.com/file/d/1sSuA0iypuyZvvk9pBexyO98va9pGcjG1/view?usp=sharing)](https://drive.google.com/uc?export=download&id=1Z8Ysa0J2vL1jQFw99EeyF7wbCXFTOZZy)
 
-Click the image to download or view my full resume.
+Click the image to download or view my full resume.](https://drive.google.com/file/d/1sSuA0iypuyZvvk9pBexyO98va9pGcjG1/view?usp=sharing)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
