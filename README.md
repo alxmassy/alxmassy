@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤖 About Me:
 Hi, I’m Alex Massy, an engineering student passionate about blending technology, creativity, and business.
 
 
