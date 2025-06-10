@@ -1,5 +1,5 @@
 # 🤖 About Me:
-Hi, I’m Alex Massy, an engineering student passionate about blending technology, creativity, and business.
+Hi, I’m Alex Massy, an engineering student just blending technology, creativity, and business.
 
 
 # 💻 Tech Stack:
