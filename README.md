@@ -1,5 +1,5 @@
 # 🤖 About Me:
-Hi, I’m Alex Massy, an engineering student just blending technology, creativity, and business.
+Intern @DRDO | Building real-world projects in AI, Web, and Embedded Systems
 
 
 # 💻 Tech Stack:
