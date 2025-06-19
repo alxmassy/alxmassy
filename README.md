@@ -1,5 +1,5 @@
 # 🤖 About Me:
-Intern @DRDO | Building real-world projects in AI, Web, and Embedded Systems
+Intern @DRDO | Building real-world projects in AI/ML, Web, and Embedded Systems
 
 
 # 💻 Tech Stack:
